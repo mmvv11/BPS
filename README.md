@@ -1,5 +1,7 @@
 # BPS: A Framework to Balance Plasticity and Stability in Continual Learning for Recommender Systems
 
+<img src="./bps_overview.svg>
+
 ## Environment Requirements
 - See `requirements.txt`
 
